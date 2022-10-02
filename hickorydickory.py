@@ -1,2 +1,3 @@
 print("Hickory Dickory Dock")
-print("The mouse ran up the clock")
+print("The dog ran up the clock")
+print("Hickory Dickory Dock")
